@@ -1,7 +1,17 @@
 # sat-image
 
-Hi friends,
+Welcome to my Page.
 
-This is my first day in this repository. Hope I will be good.
+This is a site for image processing and pattern recognition.
 
-lily.
+-Image enhancement-retinex
+-Image segmentation
+-Classification
+-Change detection
+-Atmospheric correction
+-AOD retrieval
+-Building extraction and modeling
+-Road extraction and modeling
+
+Support or Contact
+lily-hust@163.com

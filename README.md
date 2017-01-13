@@ -1,8 +1,10 @@
 # sat-image
 
-Welcome to my Page.
+Yan Li got her Bachelor degree of engineering from Wuhan University of Hydraulic and Electric Engineering (Now Wuhan University) China, and Master and PhD degree of engineering from Huazhong University, China. 
 
-<h3> This is a site for image processing and pattern recognition.</h3>
+Yan enjoys working with industrial professionals from all over the world, and loves working on R&D of software and tools for feature extraction and image processing. Since ten years ago, she has cooperated with one major transnational corporation of GIS, Pasco Japan, and made good achievements. The image segmentation software she developed has been embedded by the leading enterprise Google.
+
+<h3> This is a site to display what Yan has developed on image processing and pattern recognition. If you are interested in these projects and products please feel free to contact her at +86 13913839671, or the email in the bottom of this page.</h3>
 <img src="images/earth.gif"  alt="Earth" height="128" />
 
 <h3> -Image enhancement </h3>
@@ -25,3 +27,4 @@ Welcome to my Page.
 Support or Contact
 
 lily-hust@163.com
+lily.hust.essi@gmail.com

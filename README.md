@@ -18,6 +18,8 @@ This is a site to display what Yan has developed on image processing and pattern
 <img src="images/7.JPG"  alt="Atmospheric correction" height="128" />
 
 <h3> -AOD retrieval </h3>
+<button type="button">AOD mapping</button>
+<a href="telnet://114.212.112.15/lcdads"></a>
 
 <h3> -Building extraction and modeling </h3>
 <img src="images/3.JPG"  alt="Buildings" height="128" />

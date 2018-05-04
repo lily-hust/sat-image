@@ -1,10 +1,10 @@
 # sat-image
 
-Yan Li got her Bachelor degree of engineering from Wuhan University of Hydraulic and Electric Engineering (Now Wuhan University) China, and Master and PhD degree of engineering from Huazhong University, China. 
+Yan Li got her Bachelor degree majored at EE from Wuhan University of Hydraulic and Electric Engineering (Now Wuhan University) China, and Master and PhD degree majored at PR&AI from Huazhong University, China. 
 
-Yan enjoys working with industrial professionals from all over the world, and loves working on R&D of software and tools for feature extraction and image processing. Since ten years ago, she has cooperated with one major transnational corporation of GIS, Pasco Japan, and made good achievements. The image segmentation software she developed has been embedded by the leading enterprise Google.
+Yan enjoys working with industrial professionals from all over the world, and loves working on R&D of software and tools for feature extraction and image processing. She has cooperated with a famous GIS company, Pasco, Japan, and achieved good results for building recognition, extraction and modelling. The image segmentation software she developed has been introduced as API by Google Earth Engigine.
 
-This is a site to display what Yan has developed on image processing and pattern recognition. If you are interested in these projects and products please feel free to contact her at +86 13913839671, or the emails in the bottom of this page.
+This is a site to display her works. If you are interested in these projects and products please feel free to contact her at 1 858 900 6491, or the emails in the bottom of this page.
 <h3></h3>
 <img src="images/earth.gif"  alt="Earth" height="128" />
 
@@ -27,7 +27,9 @@ This is a site to display what Yan has developed on image processing and pattern
 <h3> -Road extraction and modeling </h3>
 <img src="images/5.JPG"  alt="Road extraction" height="128" />
 
-Support or Contact
-
+<h3> -<image dataset of objects from nadir view> </h3>
+<h3> < This link conclude object images derived the satellite images, eg. LandSAT, GeoEye. There are 5 father classes, water, vegetation, bare land, built area, and unclarified, and more sub-classes. > </h3>
+  
+Contact
 lily-hust@163.com
 lily.hust.essi@gmail.com

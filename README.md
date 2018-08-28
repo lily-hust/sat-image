@@ -31,7 +31,7 @@ This program creates the 2D contour polygon models automatately from the Digital
 This program creates the road network from DSM. It is also based on mathematical morphology. The procedure includes distance tramsform, center line, side line and intersection extractions. Spatial relationship based reasoning is developed and applied for the road model creation.
 
 <h3> -Example map of most popular countries 2016 </h3>
-<img src = "images/arrival of 10m.pdf" alt = "10m level arrival" height = "128" />
+<img src = "images/arrival of 10m.png" alt = "10m level arrival" height = "128" />
 This map shows the countries in dark color of most popular countries in the world in 2016. The number of arrival tuorists to any of these countries is over 10 millions. 
 
 <h3> -<image dataset of objects from nadir view> </h3>

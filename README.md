@@ -7,7 +7,7 @@ This is a site to display some works of image processing, remote sensing, and GI
 
 <h3> -Image enhancement </h3>
 <img src="images/enhancement.gif"  alt="Enhancement" height="128" />
-<h3><This program restores the brightness of the pictures or videos acquired at under-lighting environment, such as night, and smoky or foggy environment. The pictures or videos can be improved as if they were acquired at day light. ></h3>
+This program restores the brightness of the pictures or videos acquired at under-lighting environment, such as night, and smoky or foggy environment. The pictures or videos can be improved as if they were acquired at day light. 
 
 <h3> -Image segmentation </h3>
 <img src="images/4.JPG"  alt="Segmentation" height="128" />
@@ -31,7 +31,7 @@ This is a site to display some works of image processing, remote sensing, and GI
 <h3><This program creates the road network from DSM. It is also based on mathematical morphology. The procedure includes distance tramsform, center line, side line and intersection extractions. Spatial relationship based reasoning is developed and applied for the road model creation.></h3>
 
 <h3> -Example map of most popular countries 2016 </h3>
-<img src = "images/1.pdf" alt = "10m level arrival" height = "128" />
+<img src = "images/arrival of 10m.pdf" alt = "10m level arrival" height = "128" />
 <h3><This map shows the countries in dark color of most popular countries in the world in 2016. The number of arrival tuorists to any of these countries is over 10 millions. ></h3>
 
 <h3> -<image dataset of objects from nadir view> </h3>

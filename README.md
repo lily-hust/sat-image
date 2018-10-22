@@ -34,9 +34,33 @@ This program creates the road network from DSM. It is also based on mathematical
 <img src = "images/arrival of 10m.png" alt = "10m level arrival" height = "128" />
 This map shows the countries in dark color of most popular countries in the world in 2016. The number of arrival tuorists to any of these countries is over 10 millions. 
 
-<h3> -<image dataset of objects from nadir view> </h3>
-<h3> < This link conclude object images derived the satellite images, eg. LandSAT, GeoEye. There are 5 father classes, water, vegetation, bare land, built area, and unclarified, and more sub-classes. > </h3>
-  
+<h3> -My favorite shopping circles in Irvine </h3>
+<h3> < Living in Irvine is a great experience. It is safe and beautiful. It also has many places to go. Here are three commercial circles I love. > </h3>
+<style>
+  .embed-container {
+    position: relative; 
+    padding-bottom: 80%; 
+    height: 0; 
+    max-width: 100%;
+  }
+  .embed-container iframe, 
+  .embed-container object, 
+  .embed-container iframe{
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+  } small{
+    position: absolute; 
+    z-index: 40; 
+    bottom: 0; 
+    margin-bottom: -15px;
+}</style>
+<div class="embed-container">
+  <iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="My favorite Irvine Shopping Circles" src="//www.arcgis.com/apps/Embed/index.html?webmap=b306297b49a640bb9e9d35d447d48adc&extent=-118.0412,33.5454,-117.3888,33.8156&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light">
+  </iframe>
+</div>  
+
 Contact
-lily-hust@163.com
 lily.hust.essi@gmail.com
